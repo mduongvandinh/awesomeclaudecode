@@ -35,7 +35,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 - [Claude Code GitHub](https://github.com/anthropics/claude-code) - Official repository for issues and discussions
 - [Claude Code GitHub Action](https://github.com/anthropics/claude-code-action) - Official GitHub Action for PR automation with @claude mentions
 - [Anthropic Cookbook](https://github.com/anthropics/anthropic-cookbook) - Official code examples and patterns
-- [Claude Code VS Code Extension](https://marketplace.visualstudio.com/items?itemName=anthropics.claude-code) - Official VS Code integration
+- [Claude Code VS Code Extension](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) - Official VS Code integration
 - [Claude Code JetBrains Plugin](https://plugins.jetbrains.com/plugin/27310-claude-code-beta-) - Official IntelliJ IDEA, WebStorm, PyCharm integration
 - [Model Context Protocol](https://modelcontextprotocol.io/) - Official MCP specification and documentation
 
@@ -205,7 +205,7 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 *Editor and IDE extensions for Claude Code.*
 
 ### VS Code
-- [Claude Code VS Code Extension](https://marketplace.visualstudio.com/items?itemName=anthropics.claude-code) - Official Visual Studio Code integration
+- [Claude Code VS Code Extension](https://marketplace.visualstudio.com/items?itemName=anthropic.claude-code) - Official Visual Studio Code integration
 - [Claude-Autopilot](https://github.com/example/claude-autopilot) - VS Code/Cursor extension for task automation with intelligent queuing
 
 ### JetBrains
