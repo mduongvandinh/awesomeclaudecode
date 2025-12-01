@@ -43,11 +43,11 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 *Curated collections of Claude Code resources.*
 
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) ⭐ 17.4k - Curated list of slash-commands, CLAUDE.md files, and CLI tools
-- [jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) ⭐ 71 - Tools, IDE integrations, frameworks, and resources
-- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) ⭐ 2.4k - Curated list of Claude Skills for Claude Code workflows
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) ⭐ 5.8k - Practical Claude Skills for productivity enhancement
-- [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) ⭐ 50 - Collection of exemplary CLAUDE.md files from public projects
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - Curated list of slash-commands, CLAUDE.md files, and CLI tools ![GitHub stars](https://img.shields.io/github/stars/hesreallyhim/awesome-claude-code?style=social)
+- [jqueryscript/awesome-claude-code](https://github.com/jqueryscript/awesome-claude-code) - Tools, IDE integrations, frameworks, and resources ![GitHub stars](https://img.shields.io/github/stars/jqueryscript/awesome-claude-code?style=social)
+- [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - Curated list of Claude Skills for Claude Code workflows ![GitHub stars](https://img.shields.io/github/stars/travisvn/awesome-claude-skills?style=social)
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - Practical Claude Skills for productivity enhancement ![GitHub stars](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=social)
+- [josix/awesome-claude-md](https://github.com/josix/awesome-claude-md) - Collection of exemplary CLAUDE.md files from public projects ![GitHub stars](https://img.shields.io/github/stars/josix/awesome-claude-md?style=social)
 
 ## Tutorials & Guides
 
@@ -64,9 +64,9 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 *Open source projects and tools built with or for Claude Code.*
 
-- [ccpm](https://github.com/automazeio/ccpm) ⭐ 5.6k - Project management with parallel AI agents on GitHub Issues using Git worktrees
-- [Compounding Engineering Plugin](https://github.com/EveryInc/compounding-engineering-plugin) ⭐ 2.2k - Systematic planning, execution, and multi-agent code review
-- [cc-sdd](https://github.com/gotalab/cc-sdd) ⭐ 1.9k - Spec-driven development tool for structured AI coding workflows
+- [ccpm](https://github.com/automazeio/ccpm) - Project management with parallel AI agents on GitHub Issues using Git worktrees ![GitHub stars](https://img.shields.io/github/stars/automazeio/ccpm?style=social)
+- [Compounding Engineering Plugin](https://github.com/EveryInc/compounding-engineering-plugin) - Systematic planning, execution, and multi-agent code review ![GitHub stars](https://img.shields.io/github/stars/EveryInc/compounding-engineering-plugin?style=social)
+- [cc-sdd](https://github.com/gotalab/cc-sdd) - Spec-driven development tool for structured AI coding workflows ![GitHub stars](https://img.shields.io/github/stars/gotalab/cc-sdd?style=social)
 - [resu.nvim](https://github.com/koushikxd/resu.nvim) - Neovim plugin for reviewing and managing AI-made file changes
 
 ## Skills
@@ -74,51 +74,51 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 *Pre-built skill packages that extend Claude Code's domain expertise.*
 
 - [Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0) - Official Notion integration skills for Claude Code
-- [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) ⭐ 1.6k - 128+ scientific skills for biology, chemistry, medicine, and physics research
-- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 8.1k - Core skills library with 20+ battle-tested skills including TDD, debugging, and collaboration patterns
+- [Claude Scientific Skills](https://github.com/K-Dense-AI/claude-scientific-skills) - 128+ scientific skills for biology, chemistry, medicine, and physics research ![GitHub stars](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills?style=social)
+- [obra/superpowers](https://github.com/obra/superpowers) - Core skills library with 20+ battle-tested skills including TDD, debugging, and collaboration patterns ![GitHub stars](https://img.shields.io/github/stars/obra/superpowers?style=social)
 
 ## Subagents & Agents
 
 *Specialized AI agents and multi-agent orchestration for Claude Code.*
 
-- [hesreallyhim/a-list-of-claude-code-agents](https://github.com/hesreallyhim/a-list-of-claude-code-agents) ⭐ 1.1k - Community-submitted Claude Code sub-agents collection
-- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) ⭐ 5.2k - 100+ production-ready subagents for full-stack, DevOps, and data science
-- [wshobson/agents](https://github.com/wshobson/agents) ⭐ 21.6k - 85 specialized agents, 15 orchestrators, 47 skills, and 44 tools in 63 plugins
+- [hesreallyhim/a-list-of-claude-code-agents](https://github.com/hesreallyhim/a-list-of-claude-code-agents) - Community-submitted Claude Code sub-agents collection ![GitHub stars](https://img.shields.io/github/stars/hesreallyhim/a-list-of-claude-code-agents?style=social)
+- [VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - 100+ production-ready subagents for full-stack, DevOps, and data science ![GitHub stars](https://img.shields.io/github/stars/VoltAgent/awesome-claude-code-subagents?style=social)
+- [wshobson/agents](https://github.com/wshobson/agents) - 85 specialized agents, 15 orchestrators, 47 skills, and 44 tools in 63 plugins ![GitHub stars](https://img.shields.io/github/stars/wshobson/agents?style=social)
 
 ## Plugins & Extensions
 
 *Plugin collections and workflow automation tools.*
 
-- [SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework) ⭐ 18.6k - Meta-framework with 30 commands, 16 agents, and 7 behavioral modes for structured development
-- [OpenSpec](https://github.com/Fission-AI/OpenSpec) ⭐ 10.8k - Spec-driven development framework aligning humans and AI on what to build before coding
-- [claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) ⭐ 3.2k - Spec-driven development and bug fix workflows
-- [claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) ⭐ 3.2k - Automated code review system with dual-loop architecture
-- [claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) ⭐ 531 - 243 plugins hub, first 100% compliant with Anthropic 2025 Skills schema
-- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) ⭐ 25 - Quality assurance and best practices workflow plugins
-- [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace) ⭐ 25 - Plugins for auto-commit, browser automation, and productivity
-- [cc-plugins](https://github.com/yanmxa/cc-plugins) ⭐ 7 - Meta-development plugin to create new slash commands from workflows
+- [SuperClaude](https://github.com/SuperClaude-Org/SuperClaude_Framework) - Meta-framework with 30 commands, 16 agents, and 7 behavioral modes for structured development ![GitHub stars](https://img.shields.io/github/stars/SuperClaude-Org/SuperClaude_Framework?style=social)
+- [OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development framework aligning humans and AI on what to build before coding ![GitHub stars](https://img.shields.io/github/stars/Fission-AI/OpenSpec?style=social)
+- [claude-code-spec-workflow](https://github.com/Pimzino/claude-code-spec-workflow) - Spec-driven development and bug fix workflows ![GitHub stars](https://img.shields.io/github/stars/Pimzino/claude-code-spec-workflow?style=social)
+- [claude-code-workflows](https://github.com/OneRedOak/claude-code-workflows) - Automated code review system with dual-loop architecture ![GitHub stars](https://img.shields.io/github/stars/OneRedOak/claude-code-workflows?style=social)
+- [claude-code-plugins-plus](https://github.com/jeremylongshore/claude-code-plugins-plus) - 243 plugins hub, first 100% compliant with Anthropic 2025 Skills schema ![GitHub stars](https://img.shields.io/github/stars/jeremylongshore/claude-code-plugins-plus?style=social)
+- [shinpr/claude-code-workflows](https://github.com/shinpr/claude-code-workflows) - Quality assurance and best practices workflow plugins ![GitHub stars](https://img.shields.io/github/stars/shinpr/claude-code-workflows?style=social)
+- [claude-code-marketplace](https://github.com/Dev-GOM/claude-code-marketplace) - Plugins for auto-commit, browser automation, and productivity ![GitHub stars](https://img.shields.io/github/stars/Dev-GOM/claude-code-marketplace?style=social)
+- [cc-plugins](https://github.com/yanmxa/cc-plugins) - Meta-development plugin to create new slash commands from workflows ![GitHub stars](https://img.shields.io/github/stars/yanmxa/cc-plugins?style=social)
 
 ## Templates & Starters
 
 *CLAUDE.md templates, starter configurations, and development kits.*
 
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 12k - CLI tool for installing complete development stacks and agents
-- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) ⭐ 1.4k - Starter template with CLAUDE.md memory bank system
-- [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) ⭐ 1.2k - Custom workflows with hooks, MCP, and sub-agents
-- [bhancockio/claude-crash-course-templates](https://github.com/bhancockio/claude-crash-course-templates) ⭐ 330 - Templates for development process from planning to implementation
-- [ArthurClune/claude-md-examples](https://github.com/ArthurClune/claude-md-examples) ⭐ 77 - Sample CLAUDE.md files for various project types
-- [jmckinley/claude-code-resources](https://github.com/jmckinley/claude-code-resources) ⭐ 49 - Production agents, templates, and 100+ tested workflows
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for installing complete development stacks and agents ![GitHub stars](https://img.shields.io/github/stars/davila7/claude-code-templates?style=social)
+- [centminmod/my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup) - Starter template with CLAUDE.md memory bank system ![GitHub stars](https://img.shields.io/github/stars/centminmod/my-claude-code-setup?style=social)
+- [peterkrueck/Claude-Code-Development-Kit](https://github.com/peterkrueck/Claude-Code-Development-Kit) - Custom workflows with hooks, MCP, and sub-agents ![GitHub stars](https://img.shields.io/github/stars/peterkrueck/Claude-Code-Development-Kit?style=social)
+- [bhancockio/claude-crash-course-templates](https://github.com/bhancockio/claude-crash-course-templates) - Templates for development process from planning to implementation ![GitHub stars](https://img.shields.io/github/stars/bhancockio/claude-crash-course-templates?style=social)
+- [ArthurClune/claude-md-examples](https://github.com/ArthurClune/claude-md-examples) - Sample CLAUDE.md files for various project types ![GitHub stars](https://img.shields.io/github/stars/ArthurClune/claude-md-examples?style=social)
+- [jmckinley/claude-code-resources](https://github.com/jmckinley/claude-code-resources) - Production agents, templates, and 100+ tested workflows ![GitHub stars](https://img.shields.io/github/stars/jmckinley/claude-code-resources?style=social)
 
 ## Usage Tracking
 
 *Tools for monitoring token usage, costs, and analytics.*
 
-- [ccusage](https://github.com/ryoppippi/ccusage) ⭐ 9.1k - CLI tool for analyzing usage from local JSONL with live monitoring
-- [Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) ⭐ 5.8k - Real-time terminal dashboard with ML-based predictions
-- [ccseva](https://github.com/Iamshankhadeep/ccseva) ⭐ 725 - Beautiful macOS menu bar app for real-time usage tracking
-- [claude-code-otel](https://github.com/ColeMurray/claude-code-otel) ⭐ 134 - Full observability stack with Prometheus, Loki, and Grafana
-- [claude-code-monitor](https://github.com/zcquant/claude-code-monitor) ⭐ 4 - OpenTelemetry-based monitoring with real-time dashboards
-- [ccost](https://github.com/carlosarraes/ccost) ⭐ 3 - Accurate cost tracking with multi-currency support and live pricing
+- [ccusage](https://github.com/ryoppippi/ccusage) - CLI tool for analyzing usage from local JSONL with live monitoring ![GitHub stars](https://img.shields.io/github/stars/ryoppippi/ccusage?style=social)
+- [Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time terminal dashboard with ML-based predictions ![GitHub stars](https://img.shields.io/github/stars/Maciek-roboblog/Claude-Code-Usage-Monitor?style=social)
+- [ccseva](https://github.com/Iamshankhadeep/ccseva) - Beautiful macOS menu bar app for real-time usage tracking ![GitHub stars](https://img.shields.io/github/stars/Iamshankhadeep/ccseva?style=social)
+- [claude-code-otel](https://github.com/ColeMurray/claude-code-otel) - Full observability stack with Prometheus, Loki, and Grafana ![GitHub stars](https://img.shields.io/github/stars/ColeMurray/claude-code-otel?style=social)
+- [claude-code-monitor](https://github.com/zcquant/claude-code-monitor) - OpenTelemetry-based monitoring with real-time dashboards ![GitHub stars](https://img.shields.io/github/stars/zcquant/claude-code-monitor?style=social)
+- [ccost](https://github.com/carlosarraes/ccost) - Accurate cost tracking with multi-currency support and live pricing ![GitHub stars](https://img.shields.io/github/stars/carlosarraes/ccost?style=social)
 
 ## MCP Servers
 
@@ -148,8 +148,8 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 
 *Desktop applications and voice control for Claude Code.*
 
-- [opcode](https://github.com/winfunc/opcode) ⭐ 19k - Powerful Tauri 2 desktop app for session management and custom agents
-- [voicemode](https://github.com/mbailey/voicemode) ⭐ 471 - Natural voice interactions through MCP for hands-free coding
+- [opcode](https://github.com/winfunc/opcode) - Powerful Tauri 2 desktop app for session management and custom agents ![GitHub stars](https://img.shields.io/github/stars/winfunc/opcode?style=social)
+- [voicemode](https://github.com/mbailey/voicemode) - Natural voice interactions through MCP for hands-free coding ![GitHub stars](https://img.shields.io/github/stars/mbailey/voicemode?style=social)
 - [cc-switch](https://github.com/farion1231/cc-switch) - Cross-platform desktop tool for Claude Code, Codex & Gemini CLI
 - [claude-code-voice-handler](https://github.com/markhilton/claude-code-voice-handler) - Voice notifications with cross-platform TTS support
 - [happy-coder](https://github.com/slopus/happy) - Free mobile app to control Claude Code from your phone
@@ -214,20 +214,20 @@ Claude Code is an agentic coding tool that lives in your terminal, understands y
 - [claude-code-idea-plugin](https://github.com/duquesnay/claude-code-idea-plugin) - Claude integration with embedded terminal in IntelliJ
 
 ### Neovim
-- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) ⭐ 1.6k - Seamless integration with auto-reload and floating windows
-- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) ⭐ 1.4k - Pure Lua IDE extension with 100% protocol compatibility
+- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) - Seamless integration with auto-reload and floating windows ![GitHub stars](https://img.shields.io/github/stars/greggh/claude-code.nvim?style=social)
+- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - Pure Lua IDE extension with 100% protocol compatibility ![GitHub stars](https://img.shields.io/github/stars/coder/claudecode.nvim?style=social)
 - [carlos-rodrigo/claude-code.nvim](https://github.com/carlos-rodrigo/claude-code.nvim) - Session management, built-in agents, and LazyVim integration
 - [dreemanuel/claude-code.nvim](https://github.com/dreemanuel/claude-code.nvim) - Lua plugin with Tmux and diffview.nvim integration
 - [cc.nvim](https://github.com/toshiemon18/cc.nvim) - Lightweight Neovim plugin for Claude Code CLI
 
 ### Emacs
-- [claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) ⭐ 1.2k - Native MCP integration with LSP and Tree-sitter support
+- [claude-code-ide.el](https://github.com/manzaltu/claude-code-ide.el) - Native MCP integration with LSP and Tree-sitter support ![GitHub stars](https://img.shields.io/github/stars/manzaltu/claude-code-ide.el?style=social)
 - [claude-code.el](https://github.com/stevemolitor/claude-code.el) - Emacs interface with flycheck/flymake error fixing
 - [claude-code-emacs](https://github.com/yuya373/claude-code-emacs) - MCP integration with transient menus and project sessions
 - [claudemacs](https://github.com/cpoile/claudemacs) - AI pair programming with notifications and session resume
 
 ### Vim
-- [claude.vim](https://github.com/pasky/claude.vim) ⭐ 418 - Classic Vim plugin for AI pair programming on buffers
+- [claude.vim](https://github.com/pasky/claude.vim) - Classic Vim plugin for AI pair programming on buffers ![GitHub stars](https://img.shields.io/github/stars/pasky/claude.vim?style=social)
 
 ## Custom Slash Commands
 
